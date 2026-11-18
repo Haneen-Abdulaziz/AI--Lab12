@@ -1,16 +1,6 @@
 % ============================================================
-%  ARTI 401 - Lab 10: Graphs
-%  Task 1 (slides 26-27): find the path between cities
-%
-%  ?- travel('Dammam','Madinah',P).
-%  P = ['Dammam', 'Qatif', 'Madinah'] ;
-%  false.
-%
-%  ?- travel('Makkah','Riyadh',P).
-%  P = ['Makkah', 'Madinah', 'Taif', 'Dammam', 'Riyadh'] ;
-%  P = ['Makkah', 'Madinah', 'Tabuk', 'Taif', 'Dammam', 'Riyadh'] ;
-%  P = ['Makkah', 'Riyadh'] ;
-%  false.
+%  ARTI 401 - Lab 12: Graphs
+%  Task 1: find the path between cities
 % ============================================================
 
 % The graph: connected(From, To) is one arrow in the figure.
